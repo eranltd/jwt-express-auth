@@ -10,14 +10,6 @@
 
 <br> 
 
-> if you are already familier with this subject you can go ahead and skip to end
-> of this article.
-
-<br> 
-
-> Note: the **JavaScript code** for this article is available from the following
-> [GitHub repository.](https://github.com/eranltd/jwt-express-auth)
-
 **Purpose of an article: **to give you Node.JS developers the **practical
 tools** and the **theory **to implement authentication in your web-app.
 
@@ -165,11 +157,6 @@ a clear picture.
 
 [https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
 
-### **Full **Source Code : 
-
-### Bonus : HttpStatus Codes & CORS
-
-<br> 
 
 <br> 
 
