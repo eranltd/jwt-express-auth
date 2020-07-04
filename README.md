@@ -1,3 +1,11 @@
+## Installation & Running
+
+Use the package manager (npm) to install & run.
+
+```javascript
+npm install
+node auth-server.js
+```
 <br> 
 
 ### Web-App Authentication, JWT token-based authentication with **Express.js
